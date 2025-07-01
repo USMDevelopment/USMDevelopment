@@ -3,7 +3,7 @@
 These updates are posted within a development place to be tested and then posted to all games USM actively uses.
 
 Game Versions
-***Fort Liberty - v1.5 Taiwan War - v2 Joint Base RedWood - v0.1.0***
+`Fort Liberty - v1.5` `Taiwan War - v2` `Joint Base RedWood - v0.1.0`
 
 `Taiwan Hotfix. 6/21/25`
 ```md
